@@ -31,10 +31,10 @@ namespace KayakoRestApi.Core.Constants
 		[XmlEnum(Name = "9")]
 		LinkedSelectFields,
 
-		[XmlEnum(Name = "1")]
+		[XmlEnum(Name = "10")]
 		Date,
 
-		[XmlEnum(Name = "1")]
+		[XmlEnum(Name = "11")]
 		File
 	}
 }
